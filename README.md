@@ -4,7 +4,7 @@
 A Charity Donation Tracker made in HTML,CSS and the Javascript. It is able to add or basically track the donations made by the contributors of different people.
 
 ## Description
-Welcome to our project! This is our first project made on HTML, CSS, and Javascript.It is able to add or basically track the donations made by the certain contributors of different people, specifically different users. Through this, one can donate to any of the organisations for welfare and can have a history of their donations. We hope you enjoy and we look forward to your contributions!
+Welcome to our project! This is our first project made on HTML, CSS, and Javascript.It is able to add or basically track the donations made by the certain contributors of different people, specifically different users. Through this, one can donate to any of the organisations for welfare and can have a history of their donations. Not only that, the user will be credited with some extra token points, which can be used by the user to redeem some special things! We hope you enjoy and we look forward to your contributions!
 
 ## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
