@@ -1,11 +1,12 @@
-@@ -1,2 +1,23 @@
+![Forks](https://img.shields.io/badge/forks-44-blue)
+![Stars](https://img.shields.io/badge/stars-13-yellow)
 # Charity-Donation-Tracker
 A Charity Donation Tracker made in HTML,CSS and the Javascript. It is able to add or basically track the donations made by the contributors of different people.
 
-##Description
+## Description
 Welcome to our project! This is our first project made on HTML, CSS, and Javascript.It is able to add or basically track the donations made by the certain contributors of different people, specifically different users. Through this, one can donate to any of the organisations for welfare and can have a history of their donations. We hope you enjoy and we look forward to your contributions!
 
-##Contributing
+## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
 1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
 2. Contribute code: If you are a developer and want to contribute, follow the instructions below to get started!
